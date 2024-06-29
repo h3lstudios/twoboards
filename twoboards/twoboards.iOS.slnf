@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "twoboards.sln",
+    "projects": [
+      "twoboards.Game\\twoboards.Game.csproj",
+      "twoboards.Resources\\twoboards.Resources.csproj",
+      "twoboards.iOS\\twoboards.iOS.csproj"
+    ]
+  }
+}
